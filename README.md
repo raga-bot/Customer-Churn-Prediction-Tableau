@@ -3,6 +3,12 @@
 This project combines machine learning with business intelligence to predict customer churn and visualize insights using Tableau. It's designed to showcase data analytics, modeling, and dashboarding skills in a single portfolio-worthy project.
 
 ---
+## 🚀 Project Overview
+This project predicts customer churn using machine learning and provides business insights using Tableau dashboards.
+
+✔ Identifies high-risk customers  
+✔ Helps improve retention strategies  
+✔ Provides visual insights for decision-making
 
 ## 🔍 Project Summary
 
